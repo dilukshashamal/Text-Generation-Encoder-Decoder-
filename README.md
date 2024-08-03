@@ -1,4 +1,4 @@
-# TensorFlow Shakespeare Text Generation
+# TensorFlow Text Generation
 
 This project demonstrates how to use TensorFlow to process and prepare text data from Shakespeare's works for a text generation task. The steps include loading data, preprocessing, creating sequences, and preparing the dataset for training a neural network.
 
